@@ -1,5 +1,11 @@
 # react-native-optimized-flatlist
 
+Actually, the source code is from:
+https://github.com/stoffern/react-native-optimized-flatlist
+
+but there is not update since last year and there is no new version. So I've fork it for the best.
+
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/stoffern/react-native-optimized-flatlist.svg)](https://greenkeeper.io/)
 ![](https://img.shields.io/npm/v/react-native-optimized-flatlist.svg)
 
